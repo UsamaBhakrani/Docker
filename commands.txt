@@ -1,0 +1,6 @@
+Build Command
+docker build -t hello-docker .
+
+Run Command
+docker run hello-docker
+
